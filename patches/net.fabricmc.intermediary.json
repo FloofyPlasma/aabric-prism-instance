@@ -2,20 +2,20 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "babric:intermediary-upstream:b1.7.3",
-            "url": "https://maven.glass-launcher.net/babric"
+            "name": "aabric:intermediary-upstream:a1.1.2_01",
+            "url": "https://floofyplasma.github.io/aabric-libraries"
         }
     ],
     "name": "Intermediary Mappings",
     "releaseTime": "2024-10-18T18:57:03.000Z",
     "requires": [
         {
-            "equals": "b1.7.3",
+            "equals": "a1.1.2_01",
             "uid": "net.minecraft"
         }
     ],
     "type": "release",
     "uid": "net.fabricmc.intermediary",
-    "version": "b1.7.3",
+    "version": "a1.1.2_01",
     "volatile": true
 }

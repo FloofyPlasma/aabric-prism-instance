@@ -19,16 +19,16 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "sha1": "43db9b498cb67058d2e12d394e6507722e71bb45",
-                "size": 1465375,
-                "url": "https://launcher.mojang.com/v1/objects/43db9b498cb67058d2e12d394e6507722e71bb45/client.jar"
+                "sha1": "daa4b9f192d2c260837d3b98c39432324da28e86",
+                "size": 897164,
+                "url": "https://launcher.mojang.com/v1/objects/daa4b9f192d2c260837d3b98c39432324da28e86/client.jar"
             }
         },
-        "name": "com.mojang:minecraft:b1.7.3:client"
+        "name": "com.mojang:minecraft:a1.1.2_01:client"
     },
     "minecraftArguments": "${auth_player_name} ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
     "name": "Minecraft",
-    "releaseTime": "2011-07-08T00:00:00+02:00",
+    "releaseTime": "2010-09-23T12:39:20+00:00",
     "requires": [
         {
             "suggests": "2.9.4+legacyfabric.9",
@@ -37,5 +37,5 @@
     ],
     "type": "old_beta",
     "uid": "net.minecraft",
-    "version": "b1.7.3"
+    "version": "a1.1.2_01"
 }

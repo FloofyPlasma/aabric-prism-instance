@@ -1,8 +1,8 @@
 {
     "formatVersion": 1,
-    "name": "Babric",
-    "uid": "babric",
-    "version": "b1.7.3",
+    "name": "Aabric",
+    "uid": "aabric",
+    "version": "a1.1.2_01",
     "minecraftArguments": "--username ${auth_player_name} --session ${auth_session} --gameDir ${game_directory} --assetsDir ${game_assets}",
     "+traits": [
         "noapplet"
