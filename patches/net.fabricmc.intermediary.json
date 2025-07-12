@@ -2,7 +2,7 @@
     "formatVersion": 1,
     "libraries": [
         {
-            "name": "aabric:intermediary-upstream:a1.1.2_01",
+            "name": "aabric-experimental:intermediary-upstream:a1.1.2_01",
             "url": "https://floofyplasma.github.io/aabric-libraries"
         }
     ],
